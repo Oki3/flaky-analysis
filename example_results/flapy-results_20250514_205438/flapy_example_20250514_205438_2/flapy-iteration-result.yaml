@@ -1,0 +1,22 @@
+slurm_array_task_id:    
+slurm_array_job_id:     
+slurm_job_id:           
+input_csv_line_num:     2
+hostname_run_line:      LAPTOP-0AP3LAD8
+project_name:           "flapy_example"
+project_url:            "./minimal_flaky_python_tests"
+project_git_hash_INPUT: ""
+pypi_tag:               ""
+func_to_trace:          ""
+tests_to_be_run:        "test_flaky.py"
+num_runs:               1
+plus_random_runs:       
+flapy args:             ""
+hostname_run_container: LAPTOP-0AP3LAD8
+flapy_image_name:       registry.hub.docker.com/gruberma/flapy
+flapy_image_id:         2b4668d05ccd
+project_git_hash:       ""
+disk_usage:             32
+start_time:             Wed May 14 18:54:38 UTC 2025
+end_time:               Wed May 14 18:54:48 UTC 2025
+execution_time:         10
